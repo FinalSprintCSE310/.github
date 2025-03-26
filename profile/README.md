@@ -1,6 +1,6 @@
 # Overview
 
-Our goal with this project was to combine our skills in frameworks, JavaScript, HTML, CSS, databases, and design to create a cohesive and useful product.
+Our goal with this project was to combine our skills in frameworks, JavaScript, HTML, CSS, databases, and APIs to create a cohesive and useful product.
 
 We designed a school management system (SMS) to allow organizations, teachers, students, and parents to manage school operations in one software. It provides features such recordkeeping, class management, and communication.
 
