@@ -4,7 +4,7 @@ Our goal with this project was to combine our skills in frameworks, JavaScript, 
 
 We designed a school management system (SMS) to allow organizations, teachers, students, and parents to manage school operations in one software. It provides features such recordkeeping, class management, and communication.
 
-Our purpose in creating this software was to utilize a variety of our talents to make something that would be genuinely useful and a valuable addition to our software portfolios.
+Our purpose in creating this software was to design something with real-world value and to make a powerful addition to our software portfolios.
 
 # Development Environment
 The tools/technologies that we used to build this product are:
