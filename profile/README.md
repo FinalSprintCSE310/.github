@@ -1,14 +1,10 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Our goal with this project was to combine our skills in frameworks, JavaScript, HTML, CSS, databases, and design to create a cohesive and useful product.
 
-{Provide a description of the software that you wrote.}
+We designed a school management system (SMS) to allow organizations, teachers, students, and parents to manage school operations in one software. It provides features such recordkeeping, class management, and communication.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Our purpose in creating this software was to utilize a variety of our talents to make something that would be genuinely useful and a valuable addition to our software portfolios.
 
 # Development Environment
 The tools/technologies that we used to build this product are:
