@@ -29,5 +29,5 @@ The tools/technologies that we used to build this product are:
 
 - Add more pages and functionality to the program
 - Utilize our database's information to show more statistics
-- Allow organizations to control the program's colors for their school's accounts
+- Allow organizations to change the program's colors for their school's account
 - Improve CSS styling
