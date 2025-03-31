@@ -27,8 +27,7 @@ The tools/technologies that we used to build this product are:
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add more pages and functionality to the program
+- Utilize our database's information to show more statistics
+- Allow organizations to control the program's colors for their school's accounts
+- Improve CSS styling
